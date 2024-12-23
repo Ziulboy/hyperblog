@@ -6,3 +6,5 @@ intentando recorrer el mundo
 hoy hablaremos de su historia
 
 En camara parece alto pero la verdad no es tan algo
+
+Hoy es el aprendiz en programacion
